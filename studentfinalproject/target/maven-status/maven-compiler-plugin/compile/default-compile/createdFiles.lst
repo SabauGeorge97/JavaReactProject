@@ -1,0 +1,11 @@
+com\example\studentfinalproject\model\Profile.class
+com\example\studentfinalproject\repositories\ProfileRepository.class
+com\example\studentfinalproject\exceptions\ProfileNotFoundException.class
+com\example\studentfinalproject\repositories\StudentRepository.class
+com\example\studentfinalproject\StudentfinalprojectApplication.class
+com\example\studentfinalproject\exceptions\StudentNotFoundException.class
+com\example\studentfinalproject\controllers\ProfileController.class
+com\example\studentfinalproject\service\StudentService.class
+com\example\studentfinalproject\service\ProfileService.class
+com\example\studentfinalproject\controllers\StudentController.class
+com\example\studentfinalproject\model\Student.class
